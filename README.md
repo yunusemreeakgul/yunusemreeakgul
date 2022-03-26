@@ -1,16 +1,22 @@
-### Hi there 👋
+<img src="https://media.giphy.com/media/CTX0ivSQbI78A/giphy.gif" align="right" width="400" height="350">
 
-<!--
-**yunusemreeakgul/yunusemreeakgul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there, I'm Yunus Emre. :blush:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<font color="#ffe117"> Learn :repeat: Teach </font>
+
+
+### Reach out to me
+
+[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/github.svg" align="left" />][blog]
+[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/youtube.svg" align="left" />][youtube]
+[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" align="left" />][twitter]
+[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
+
+
+<br />
+
+[blog]: https://yunusemreeakgul.github.io
+[youtube]: https://www.youtube.com/c/yunusemreeakgul
+[twitter]: https://twitter.com/yunusemreeakgul
+[linkedin]: https://www.linkedin.com/in/yunusemreeakgul/
